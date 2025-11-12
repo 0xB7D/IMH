@@ -1,4 +1,4 @@
-**IMH - 2.0**
+**IMH - 2.0**\n
 A internal memory manipulation library including...
 
 IL2CPP (OBS ADD YOUR SELF). and minhook
